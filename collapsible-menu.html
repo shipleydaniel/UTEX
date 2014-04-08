@@ -1,0 +1,209 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+	"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Collapsible Menu | Mathachew.com</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			setTimeout(function() {
+				// Accordion
+				$('#menu5 > li > a.expanded + ul').slideToggle('medium');
+				$('#menu5 > li > a').click(function() {
+					$('#menu5 > li > a.expanded').not(this).toggleClass('expanded').toggleClass('collapsed').parent().find('> ul').slideToggle('medium');
+					$(this).toggleClass('expanded').toggleClass('collapsed').parent().find('> ul').slideToggle('medium');
+				});
+			}, 250);
+		});
+	</script>
+	<style type="text/css">
+		body {
+			font: 10pt Arial, Helvetica, Sans-serif;
+		}
+		a {
+			text-decoration: none;
+		}
+		#example1,
+		#example2,
+		#example3,
+		#example4,
+		#example5 {
+			float: left;
+		}
+		.expand_all,
+		.collapse_all {
+			cursor: pointer;
+		}
+		.example_menu {
+			font-size: 90%;
+			list-style: none;
+			margin: 0;
+			padding: 0;
+			vertical-align: top;
+			width: 136px;
+		}
+		.example_menu ul {
+			display: none;
+			list-style: none;
+			margin: 0;
+			padding: 0;
+		}
+		#menu1,
+		#menu2,
+		#menu3,
+		#menu4,
+		#menu5 {
+			margin: 0;
+		}
+		#menu1 li,
+		#menu2 li,
+		#menu3 li,
+		#menu4 li,
+		#menu5 li,
+		.example_menu li {
+			background-image: none;
+			margin: 0;
+			padding: 0;
+		}
+		.example_menu ul ul {
+			display: block;
+		}
+		.example_menu ul ul li a {
+			padding-left: 20px;
+			width: 109px;
+		}
+		.example_menu a {
+			color: #000;
+			cursor: pointer;
+			display: block;
+			font-weight: bold;
+			margin-left: 0;
+			padding: 2px 2px 2px 17px;
+			width: 112px;
+		}
+		.example_menu a.expanded {
+			background: #bbb url('images/collapse.gif') no-repeat 3px 50%;
+		}
+		.example_menu a.collapsed {
+			background: green;
+		}
+		.example_menu a:hover {
+			text-decoration: none;
+		}
+		.example_menu ul a {
+			background: white;
+			border-top: 2px solid #fff;
+			color: green;
+			display: block;
+			font-weight: normal;
+			padding: 2px 2px 2px 10px;
+			width: 119px;
+		}
+		.example_menu ul a:link {
+			font-weight: normal;
+		}
+		.example_menu ul a:hover {
+			background : white;
+			text-decoration: underline;
+		}
+		.example_menu li.active a {
+			background: #fff;
+		}
+		.example_menu li.active li a {
+			background: #e8e8e8;
+		}
+		#menu1 li.footer,
+		#menu2 li.footer,
+		#menu3 li.footer,
+		#menu4 li.footer,
+		#menu5 li.footer,
+		.example_menu .footer {
+			background: green;
+			border-top: 2px solid #fff;
+			height: 9px;
+			line-height: 15px;
+			margin: 0 0 10px 0;
+			width: 131px;
+		}
+		.example_menu .footer span {
+			display: none;
+		}
+	.auto-style1 {
+		color: #FFFFFF;
+	}
+	</style>
+</head>
+
+<body>
+	<div id="example5">
+		<h4>UTEX</h4>
+		<ul id="menu5" class="example_menu">
+					<li><a class="collapsed" style="color: #FFFFFF">Culture Search</a></li>
+			
+			<li><a href="default.aspx" class="collapsed" style="color: #FFFFFF">Home</a></li>
+
+			<li><a href="products.aspx"class="collapsed" style="color: #FFFFFF">Products</a>
+		<ul>
+			<li><a href="livingalgalstrains.aspx" class="auto-style1">Living Algal Strains</a></li>
+			<li><a href="bulkcultures.aspx" class="auto-style1">Bulk Microalgae</a></li>
+			<li><a href="prodmedia.aspx" class="auto-style1">Algal Culturing Media</a></li>
+			<li><a href="genomicDNA.aspx" class="auto-style1">UTEX Genomic DNA</a></li>
+			<li><a href="prodimages.aspx" class="auto-style1">Algal Images</a></li>
+			<li><a href="photobioreactoroverview.aspx" class="auto-style1">Photobioreactors</a></li>
+		</ul>
+		</li>
+			<li><a class="collapsed" style="color: #FFFFFF">Services</a>
+		<ul>
+			<li><a href="cryostorage.aspx" class="auto-style1">Private Strain Deposition</a></li>
+			<li><a href="" class="auto-style1">Genetic &amp; Biochemical Analysis</a></li>
+			<li><a href="strainidentification.aspx" class="auto-style1">Strain Identification</a></li>
+			<li><a href="cryostorage.aspx" class="auto-style1">Cryogenic Storage</a></li>
+		</ul>
+		</li>
+			<li><a class="collapsed" style="color: #FFFFFF">Education</a>
+		<ul>
+			<li><a href="workshopsoverview.aspx" class="auto-style1">Workshops</a></li>
+			<li><a href="teachingkits.aspx" class="auto-style1">Teaching Kits</a>
+				<ul>
+				<li>
+				<a href="teachingKits-bioluminescence.aspx" class="auto-style1">Bioluminescence Kit</a></li>
+				<li><a href="teachingKits-colors.aspx" class="auto-style1">Colors of Algae</a></li>
+				<li><a href="teachingKits-edible.aspx" class="auto-style1">Edible Algae in Commercial Products</a></li>
+				<li><a href="teachingKits-diatoms.aspx" class="auto-style1">Diatoms &amp; Symmetry</a></li>
+				<li><a href="teachingKits-shapes.aspx" class="auto-style1">Shapes of Algae</a></li>
+				</ul>
+				</li>
+			<li><a href="referenceliteraturea-c.aspx" class="auto-style1">Reference Literature</a></li>
+		</ul>
+		</li>
+						<li><a class="collapsed" style="color: #FFFFFF">Resources</a>
+		<ul>
+			<li><a href="culturemaintenance.aspx" class="auto-style1">Culture Maintenance</a></li>
+			<li><a href="media.aspx" class="auto-style1">Algal Media Recipes</a></li>
+			<li><a href="depositing.aspx" class="auto-style1">Strain Accessioning</a></li>
+			<li><a href="protocols.aspx" class="auto-style1">Cryopreservation of Microalgae</a></li>
+			<li><a href="resources.aspx" class="auto-style1">Select Algal Collections</a>
+				<ul>
+					<li><a href="scFreshWaterDiatom.aspx" class="auto-style1">Fresh Water Diatom Collection</a></li>
+					<li><a href="scExtremeEnvironment.aspx" class="auto-style1">Extreme Environment Collection</a></li>
+					<li><a href="scSnow.aspx" class="auto-style1">Snow Collection</a></li>
+					<li><a href="scSaltPlains.aspx" class="auto-style1">Salt Plains Collection</a></li>
+				</ul></li>
+			<li><a href="otherresources.aspx" class="auto-style1">Other Algal Culture Collections &amp; Resources</a></li>
+		</ul>
+		</li>
+						<li>
+						<a href="faqs.aspx"class="collapsed" style="color: #FFFFFF">FAQ</a></li>
+		
+						<li>
+						<a href="about.aspx"class="collapsed" style="color: #FFFFFF">About</a></li>
+		
+			<li class="footer"><span> </span></li>
+
+
+
+		</ul>
+	</div>
+</body>
+</html>

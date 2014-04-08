@@ -1,0 +1,175 @@
+<Style type="text/css">
+
+A {text-decoration:none} /* bare anchors - necessary for Opera, because otherwise anchors are underlined*/
+A:link {text-decoration:none; color: blue; font-family:  Arial, Helvetica; font-size: 10pt; font-weight: normal}
+A:visited {text-decoration:none; color: blue; font-family:  Arial, Helvetica; font-size: 10pt; font-weight: normal}
+A:hover {text-decoration:underline;}
+A:focus { text-decoration:underline;} /*necessary to Mozilla if the meaning is to keep the last mouse click visible*/
+
+h1 {font-family:Arial, Helvetica; text-decoration: none; font-weight:bold; font-size:10pt }
+body {background-color:#ffffff;  font-size: 10pt; font-family: Arial, Helvetica; text-decoration: none; font-weight:normal; }
+
+.box { border: solid; padding: 0.25cm;font-size:10pt; border-width:thin; border-color:rgb(204,204,255); width: 100%; font-family: Arial, Helvetica; }
+.normal{ font-size:10pt; text-decoration:none; font-family:Verdana, Arial, Helvetica;}
+.bold{ font-size:10pt; text-decoration:none; font-weight: bold; font-family: Arial, Helvetica;}
+.note{font-size=6pt; text-decoration:none; font-family: Arial, Helvetica;}
+
+
+
+table.navbar
+{font-size: 8pt;
+margin: 0px;
+padding: 0px; 
+border: 0px; 
+font-weight: bold;}
+
+table.menu
+{font-size: 8pt;
+margin: 0px;
+padding: 0px;
+font-weight: bold;}
+
+td.menuExpand
+{padding: 4px;
+color: White;
+font-size: 10pt;
+font-family: Arial;
+font-weight: bold;
+vertical-align: middle;
+horizontal-align: right;
+background-color: Green;}
+
+td.menuExpandHover
+{padding: 4px;
+color: Green;
+font-size: 10pt;
+font-weight: bold;
+font-family: Arial;
+text-decoration:none;
+vertical-align: middle;
+/*remove the following line for drop-down menu with images*/
+background-color: WHITE;}
+
+
+td.subMenuExpandHover
+{padding: 0px;
+color: Green;
+font-size: 10pt;
+font-weight: bold;
+text-decoration: none;
+vertical-align: top;
+/*remove the following line for drop-down menu with images*/
+background-color: WHITE;}
+
+
+td.menuNormal
+{padding: 0px;
+color: White;
+font-size: 10pt;
+font-weight: bold;
+font-family: Arial;
+text-decoration:none;
+background-color: Green;}
+
+td.menuHover
+{padding: 0px;
+color: Green;
+font-size: 10pt;
+font-weight: bold;
+text-decoration:none;
+/*remove the following line for drop-down menu with images*/
+background-color: WHITE;}
+
+div.menuNormal
+{display: none;
+text-decoration: none;
+position: static;}
+
+div.menuHover
+{border: 1px solid Green;
+text-decoration: none;
+background-color: white;
+display: inline;
+position: absolute;}
+
+a.menuitem:link
+{
+padding: 2px;
+text-decoration: none;
+color: Green;
+background-color: white;
+display: block;}
+
+a.menuitem:visited
+{
+padding: 2px;
+text-decoration: none;
+color: Green;
+background-color: white;
+display: block;}
+
+a.menuitem:hover
+{
+padding: 2px;
+text-decoration: underline;
+color: Green;
+background-color: #DDDDDD;
+display: block;}
+
+a.menuitem:active
+{
+padding: 2px;
+text-decoration: none;
+color: Green;
+background-color: #DDDDDD;
+display: block;}
+
+
+a.coreMenuitem:link
+{
+padding: 4px;
+text-decoration: none;
+color: white;
+width: 150;
+font-weight: bold;
+background-color: Green;
+display: block;
+}
+
+a.coreMenuitem:visited
+{
+padding: 4px;
+text-decoration: none;
+color: White;
+width: 150;
+font-weight: bold;
+background-color: Green;
+display: block;
+}
+
+a.coreMenuitem:hover
+{
+padding: 4px;
+text-decoration: underline;
+color: Green;
+width: 150;
+font-weight: bold;
+background-color: White;
+display: block;
+}
+
+a.coreMenuitem:active
+{
+padding: 4px;
+text-decoration: underline;
+color: Green;
+width:150;
+font-weight: bold;
+background-color: White;
+display: block;}
+
+
+
+</style>
+
+

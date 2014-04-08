@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usagedata>
+<month val="jul 2007" total="3794">
+<item str="Windows XP" cnt="2570" />
+<item str="Windows 2000" cnt="496" />
+<item str="Macintosh" cnt="243" />
+<item str="http: /help.yahoo.com/help/us/ysearch/slurp" cnt="239" />
+<item str="Windows NT" cnt="91" />
+<item str="Windows 98" cnt="28" />
+<item str="http: /search.msn.com/msnbot.htm" cnt="25" />
+<item str="Windows Server 2003" cnt="18" />
+<item str="Linux i686" cnt="15" />
+<item str="http: /www.google.com/bot.html" cnt="10" />
+<item str="http: /www.sogou.com/docs/help/webmasters.htm#07" cnt="9" />
+<item str="http: /about.ask.com/en/docs/about/webmasters.shtml" cnt="5" />
+<item str="Windows 95" cnt="5" />
+<item str="Windows CE" cnt="5" />
+<item str="http: /www.picsearch.com/bot.html" cnt="4" />
+<item str="Linux alpha" cnt="3" />
+<item str="compatible" cnt="2" />
+<item str="Linux x86_64" cnt="2" />
+<item str="Windows ME" cnt="2" />
+<item str="http: /www.baidu.com/search/spider_jp.html" cnt="2" />
+<item str="CazoodleBot Crawler" cnt="2" />
+<item str="Linux" cnt="1" />
+<item str="SunOS sun4u" cnt="1" />
+<item str="Auto" cnt="1" />
+<item str="Linux i686 (x86_64" cnt="1" />
+</month>
+<month val="aug 2007" total="3118">
+<item str="Windows XP" cnt="2310" />
+<item str="Macintosh" cnt="271" />
+<item str="Windows 2000" cnt="136" />
+<item str="http: /help.yahoo.com/help/us/ysearch/slurp" cnt="136" />
+<item str="Windows NT" cnt="95" />
+<item str="Windows Server 2003" cnt="32" />
+<item str="http: /search.msn.com/msnbot.htm" cnt="27" />
+<item str="Windows 98" cnt="19" />
+<item str="Linux i686" cnt="17" />
+<item str="http: /www.google.com/bot.html" cnt="13" />
+<item str="http: /about.ask.com/en/docs/about/webmasters.shtml" cnt="10" />
+<item str="compatible" cnt="10" />
+<item str="helpdesk at fastsearch dot com" cnt="6" />
+<item str="Windows ME" cnt="6" />
+<item str="Windows 95" cnt="4" />
+<item str="http: /www.picsearch.com/bot.html" cnt="4" />
+<item str="Linux x86_64" cnt="3" />
+<item str="crawler@noxtrum.com" cnt="2" />
+<item str="http: /www.sogou.com/docs/help/webmasters.htm#07" cnt="1" />
+<item str="MSIE 6.0" cnt="1" />
+<item str="http: /www.become.com/site_owners.html" cnt="1" />
+<item str="http: /www.baidu.com/search/spider_jp.html" cnt="1" />
+</month>
+<month val="sep 2007" total="3049">
+<item str="Windows XP" cnt="2261" />
+<item str="Macintosh" cnt="281" />
+<item str="http: /help.yahoo.com/help/us/ysearch/slurp" cnt="141" />
+<item str="Windows NT" cnt="109" />
+<item str="Windows 2000" cnt="103" />
+<item str="Windows 98" cnt="33" />
+<item str="http: /search.msn.com/msnbot.htm" cnt="31" />
+<item str="Windows Server 2003" cnt="23" />
+<item str="http: /www.google.com/bot.html" cnt="11" />
+<item str="Linux i686" cnt="9" />
+<item str="compatible" cnt="6" />
+<item str="http: /about.ask.com/en/docs/about/webmasters.shtml" cnt="6" />
+<item str="http: /www.picsearch.com/bot.html" cnt="4" />
+<item str="http: /www.sogou.com/docs/help/webmasters.htm#07" cnt="3" />
+<item str="Windows ME" cnt="3" />
+<item str="http: /www.become.com/site_owners.html" cnt="3" />
+<item str="Linux x86_64" cnt="2" />
+<item str="Windows 95" cnt="2" />
+<item str="Linux i686 (x86_64" cnt="1" />
+<item str="http: /misc.yahoo.com.cn/help.html" cnt="1" />
+<item str="http: /www.baidu.com/search/spider_jp.html" cnt="1" />
+<item str="http: /www.guruji.com/en/WebmasterFAQ.html" cnt="1" />
+<item str="Windows CE" cnt="1" />
+<item str="http: /www.baidu.com/search/spider.htm" cnt="1" />
+<item str="OpenBSD i386" cnt="1" />
+</month>
+<month val="oct 2007" total="3780">
+<item str="Windows XP" cnt="2873" />
+<item str="Macintosh" cnt="371" />
+<item str="Windows NT" cnt="138" />
+<item str="Windows 2000" cnt="112" />
+<item str="http: /help.yahoo.com/help/us/ysearch/slurp" cnt="101" />
+<item str="Linux i686" cnt="28" />
+<item str="http: /search.msn.com/msnbot.htm" cnt="28" />
+<item str="Windows 98" cnt="21" />
+<item str="http: /www.google.com/bot.html" cnt="14" />
+<item str="Windows Server 2003" cnt="13" />
+<item str="http: /about.ask.com/en/docs/about/webmasters.shtml" cnt="10" />
+<item str="http: /research.microsoft.com/research/sv/msrbot/" cnt="9" />
+<item str="compatible" cnt="8" />
+<item str="Windows ME" cnt="7" />
+<item str="http: /misc.yahoo.com.cn/help.html" cnt="7" />
+<item str="Visvo.com Crawler" cnt="4" />
+<item str="Twiceler-0.9 http: /www.cuill.com/twiceler/robot.html" cnt="2" />
+<item str="Auto" cnt="2" />
+<item str="3.01.1" cnt="2" />
+<item str="Windows" cnt="2" />
+<item str="http: /www.picsearch.com/bot.html" cnt="2" />
+<item str="http: /sp.ask.com/docs/about/tech_crawling.html" cnt="1" />
+<item str="http: /www.authoritativeweb.com/crawl" cnt="1" />
+<item str="http: /www.baidu.com/search/spider_jp.html" cnt="1" />
+<item str="http: /www.become.com/site_owners.html" cnt="1" />
+</month>
+<month val="nov 2007" total="3739">
+<item str="Windows XP" cnt="2869" />
+<item str="Macintosh" cnt="320" />
+<item str="Windows NT" cnt="160" />
+<item str="http: /help.yahoo.com/help/us/ysearch/slurp" cnt="125" />
+<item str="Windows 2000" cnt="80" />
+<item str="Windows Server 2003" cnt="28" />
+<item str="Linux i686" cnt="26" />
+<item str="http: /about.ask.com/en/docs/about/webmasters.shtml" cnt="22" />
+<item str="http: /search.msn.com/msnbot.htm" cnt="18" />
+<item str="Windows ME" cnt="8" />
+<item str="compatible" cnt="8" />
+<item str="http: /misc.yahoo.com.cn/help.html" cnt="8" />
+<item str="Windows 98" cnt="7" />
+<item str="http: /www.google.com/bot.html" cnt="7" />
+<item str="Crawler for Balihoo.com search engine - obeys robots.txt and robots meta tags " cnt="6" />
+<item str="nhn 1" cnt="5" />
+<item str="experimental crawler" cnt="4" />
+<item str="http: /www.gigablast.com/spider.html" cnt="4" />
+<item str="Linux x86_64" cnt="4" />
+<item str="http: /research.microsoft.com/research/sv/msrbot/" cnt="4" />
+<item str="NetSeer, Inc. is a Los Angeles based Internet startup company." cnt="3" />
+<item str="Linux i686 (x86_64" cnt="3" />
+<item str="MSIE 6.0" cnt="2" />
+<item str="http: /cis.poly.edu/westlab/" cnt="2" />
+<item str="http: /www.picsearch.com/bot.html" cnt="2" />
+</month>
+<month val="dec 2007" total="3285">
+<item str="Windows XP" cnt="2520" />
+<item str="Macintosh" cnt="309" />
+<item str="Windows NT" cnt="119" />
+<item str="http: /help.yahoo.com/help/us/ysearch/slurp" cnt="97" />
+<item str="Windows 2000" cnt="77" />
+<item str="http: /about.ask.com/en/docs/about/webmasters.shtml" cnt="24" />
+<item str="Windows 98" cnt="17" />
+<item str="Linux i686" cnt="17" />
+<item str="http: /www.google.com/bot.html" cnt="15" />
+<item str="Windows Server 2003" cnt="14" />
+<item str="http: /search.msn.com/msnbot.htm" cnt="13" />
+<item str="iPhone" cnt="9" />
+<item str="http: /misc.yahoo.com.cn/help.html" cnt="6" />
+<item str="Grub.org crawler" cnt="4" />
+<item str="Linux" cnt="3" />
+<item str="CazoodleBot Crawler" cnt="3" />
+<item str="I" cnt="3" />
+<item str="Linux i686 (x86_64" cnt="2" />
+<item str="Twiceler-0.9 http: /www.cuill.com/twiceler/robot.html" cnt="2" />
+<item str="http: /cis.poly.edu/westlab/" cnt="2" />
+<item str="http: /majestic12.co.uk/bot.php? " cnt="2" />
+<item str="Linux x86_64" cnt="2" />
+<item str="http: /www.majestic12.co.uk/bot.php? " cnt="2" />
+<item str="Windows ME" cnt="2" />
+<item str="experimental crawler" cnt="2" />
+</month>
+<month val="jan 2008" total="4631">
+<item str="Windows XP" cnt="3696" />
+<item str="Macintosh" cnt="318" />
+<item str="Windows NT" cnt="281" />
+<item str="Windows 2000" cnt="115" />
+<item str="http: /help.yahoo.com/help/us/ysearch/slurp" cnt="44" />
+<item str="Windows Server 2003" cnt="20" />
+<item str="http: /www.google.com/bot.html" cnt="17" />
+<item str="Windows 98" cnt="17" />
+<item str="Linux i686" cnt="16" />
+<item str="http: /search.msn.com/msnbot.htm" cnt="15" />
+<item str="compatible" cnt="8" />
+<item str="http: /about.ask.com/en/docs/about/webmasters.shtml" cnt="8" />
+<item str="http: /misc.yahoo.com.cn/help.html" cnt="7" />
+<item str="Windows ME" cnt="5" />
+<item str="iPod" cnt="5" />
+<item str="Linux x86_64" cnt="4" />
+<item str="http: /www.picsearch.com/bot.html" cnt="4" />
+<item str="nhn 1" cnt="4" />
+<item str="crawler@noxtrum.com" cnt="4" />
+<item str="I" cnt="4" />
+<item str="iPhone" cnt="3" />
+<item str="Linux i686 (x86_64" cnt="3" />
+<item str="Visvo.com Crawler" cnt="2" />
+<item str="BOGUS AGREEMENTS" cnt="2" />
+<item str="Twiceler-0.9 http: /www.cuill.com/twiceler/robot.html" cnt="1" />
+</month>
+<month val="feb 2008" total="4621">
+<item str="Windows XP" cnt="3545" />
+<item str="Macintosh" cnt="401" />
+<item str="Windows NT" cnt="334" />
+<item str="Windows 2000" cnt="126" />
+<item str="http: /help.yahoo.com/help/us/ysearch/slurp" cnt="39" />
+<item str="http: /search.msn.com/msnbot.htm" cnt="36" />
+<item str="Linux i686" cnt="24" />
+<item str="http: /www.google.com/bot.html" cnt="14" />
+<item str="Windows Server 2003" cnt="11" />
+<item str="http: /about.ask.com/en/docs/about/webmasters.shtml" cnt="11" />
+<item str="Linux i686 (x86_64" cnt="8" />
+<item str="Windows 98" cnt="8" />
+<item str="http: /misc.yahoo.com.cn/help.html" cnt="5" />
+<item str="Linux x86_64" cnt="5" />
+<item str="crawler@noxtrum.com" cnt="3" />
+<item str="compatible" cnt="3" />
+<item str="http: /www.picsearch.com/bot.html" cnt="3" />
+<item str="Windows ME" cnt="3" />
+<item str="KHTML 3.5" cnt="2" />
+<item str="Grub.org crawler" cnt="2" />
+<item str="http: /www.enaball.com/crawler.html" cnt="2" />
+<item str="jorgent@fast" cnt="2" />
+<item str="Visvo.com Crawler" cnt="2" />
+<item str="Bigsearch.ca Internet Spider" cnt="2" />
+<item str="Twiceler-0.9 http: /www.cuill.com/twiceler/robot.html" cnt="2" />
+</month>
+<month val="mar 2008" total="4528">
+<item str="Windows XP" cnt="3275" />
+<item str="Macintosh" cnt="400" />
+<item str="Windows NT" cnt="378" />
+<item str="http: /help.yahoo.com/help/us/ysearch/slurp" cnt="134" />
+<item str="Windows 2000" cnt="131" />
+<item str="http: /search.msn.com/msnbot.htm" cnt="35" />
+<item str="Linux i686" cnt="32" />
+<item str="Windows Server 2003" cnt="28" />
+<item str="http: /www.gigablast.com/spider.html" cnt="15" />
+<item str="Windows 98" cnt="13" />
+<item str="compatible" cnt="8" />
+<item str="http: /misc.yahoo.com.cn/help.html" cnt="7" />
+<item str="http: /about.ask.com/en/docs/about/webmasters.shtml" cnt="7" />
+<item str="http: /www.google.com/bot.html" cnt="6" />
+<item str="Linux x86_64" cnt="5" />
+<item str="http: /www.powerset.com" cnt="4" />
+<item str="http: /www.picsearch.com/bot.html" cnt="4" />
+<item str="ebingbong#playstarmusic.com" cnt="3" />
+<item str="Windows ME" cnt="3" />
+<item str="http: /www.searchme.com/support/" cnt="3" />
+<item str="Grub.org crawler" cnt="2" />
+<item str="Twiceler-0.9 http: /www.cuill.com/twiceler/robot.html" cnt="2" />
+<item str="iPhone" cnt="2" />
+<item str="http: /www.baidu.com/search/spider_jp.html" cnt="2" />
+<item str="Windows CE" cnt="2" />
+</month>
+<month val="apr 2008" total="5024">
+<item str="Windows XP" cnt="3419" />
+<item str="Macintosh" cnt="437" />
+<item str="Windows NT" cnt="421" />
+<item str="http: /help.yahoo.com/help/us/ysearch/slurp" cnt="275" />
+<item str="Windows 2000" cnt="210" />
+<item str="Windows Server 2003" cnt="79" />
+<item str="Linux i686" cnt="35" />
+<item str="http: /search.msn.com/msnbot.htm" cnt="32" />
+<item str="http: /www.gigablast.com/spider.html" cnt="16" />
+<item str="Windows 98" cnt="15" />
+<item str="http: /www.google.com/bot.html" cnt="11" />
+<item str="Linux x86_64" cnt="8" />
+<item str="http: /misc.yahoo.com.cn/help.html" cnt="6" />
+<item str="iPhone" cnt="5" />
+<item str="http: /www.picsearch.com/bot.html" cnt="4" />
+<item str="http: /www.searchme.com/support/" cnt="3" />
+<item str="crawler@noxtrum.com" cnt="2" />
+<item str="Windows ME" cnt="2" />
+<item str="Linux" cnt="2" />
+<item str="Grub.org crawler" cnt="2" />
+<item str="compatible" cnt="2" />
+<item str="http: /about.ask.com/en/docs/about/webmasters.shtml" cnt="2" />
+<item str="I" cnt="2" />
+<item str="Linux i686 (x86_64" cnt="2" />
+<item str="Twiceler-0.9 http: /www.cuill.com/twiceler/robot.html" cnt="2" />
+</month>
+<month val="may 2008" total="5273">
+<item str="Windows XP" cnt="3571" />
+<item str="http: /help.yahoo.com/help/us/ysearch/slurp" cnt="439" />
+<item str="Macintosh" cnt="432" />
+<item str="Windows NT" cnt="407" />
+<item str="Windows 2000" cnt="181" />
+<item str="http: /search.msn.com/msnbot.htm" cnt="57" />
+<item str="Linux i686" cnt="36" />
+<item str="Windows Server 2003" cnt="34" />
+<item str="http: /www.gigablast.com/spider.html" cnt="20" />
+<item str="http: /www.google.com/bot.html" cnt="14" />
+<item str="Windows 98" cnt="10" />
+<item str="compatible" cnt="7" />
+<item str="http: /misc.yahoo.com.cn/help.html" cnt="6" />
+<item str="Linux x86_64" cnt="5" />
+<item str="http: /about.ask.com/en/docs/about/webmasters.shtml" cnt="5" />
+<item str="Windows ME" cnt="5" />
+<item str="http: /www.powerset.com" cnt="3" />
+<item str="iPhone" cnt="3" />
+<item str="http: /www.commoncrawl.org/bot.html" cnt="3" />
+<item str="SunOS sun4u" cnt="2" />
+<item str="MSIE 6.0" cnt="2" />
+<item str="http: /help.naver.com/robots/" cnt="2" />
+<item str="Linux i686 (x86_64" cnt="2" />
+<item str="nutch" cnt="2" />
+<item str="http: /help.soso.com/webspider.htm" cnt="2" />
+</month>
+<month val="jun 2008" total="5982">
+<item str="Windows XP" cnt="3872" />
+<item str="Macintosh" cnt="682" />
+<item str="Windows NT" cnt="466" />
+<item str="http: /help.yahoo.com/help/us/ysearch/slurp" cnt="410" />
+<item str="Windows 2000" cnt="340" />
+<item str="http: /search.msn.com/msnbot.htm" cnt="51" />
+<item str="Linux i686" cnt="49" />
+<item str="Windows Server 2003" cnt="27" />
+<item str="Windows ME" cnt="13" />
+<item str="http: /about.ask.com/en/docs/about/webmasters.shtml" cnt="12" />
+<item str="Windows 98" cnt="7" />
+<item str="http: /www.gigablast.com/spider.html" cnt="7" />
+<item str="http: /www.google.com/bot.html" cnt="5" />
+<item str="compatible" cnt="4" />
+<item str="Linux x86_64" cnt="3" />
+<item str="http: /www.picsearch.com/bot.html" cnt="3" />
+<item str="not on Windows server" cnt="3" />
+<item str="http: /www.powerset.com" cnt="3" />
+<item str="nutch" cnt="2" />
+<item str="MSIE 6.0" cnt="2" />
+<item str="http: /help.naver.com/robots/" cnt="2" />
+<item str="Linux i686 (x86_64" cnt="1" />
+<item str="Twiceler-0.9 http: /www.cuill.com/twiceler/robot.html" cnt="1" />
+<item str="http: /www.majestic12.co.uk/bot.php? " cnt="1" />
+<item str="SymbianOS 9.1" cnt="1" />
+</month>
+<month val="jul 2008" total="3788">
+<item str="Windows XP" cnt="2526" />
+<item str="Windows NT" cnt="388" />
+<item str="Macintosh" cnt="292" />
+<item str="Windows 2000" cnt="229" />
+<item str="http: /help.yahoo.com/help/us/ysearch/slurp" cnt="208" />
+<item str="http: /search.msn.com/msnbot.htm" cnt="33" />
+<item str="Windows Server 2003" cnt="23" />
+<item str="Linux i686" cnt="22" />
+<item str="Windows 98" cnt="14" />
+<item str="Linux x86_64" cnt="12" />
+<item str="http: /about.ask.com/en/docs/about/webmasters.shtml" cnt="11" />
+<item str="http: /www.google.com/bot.html" cnt="9" />
+<item str="http: /www.gigablast.com/spider.html" cnt="5" />
+<item str="Windows CE" cnt="2" />
+<item str="www.metadatalabs.com mlbot" cnt="2" />
+<item str="nutch" cnt="2" />
+<item str="J2ME MIDP" cnt="1" />
+<item str="Twiceler-0.9 http: /www.cuill.com/twiceler/robot.html" cnt="1" />
+<item str="http: /help.baidu.jp/system/05.html" cnt="1" />
+<item str="compatible" cnt="1" />
+<item str="Visvo.com Crawler" cnt="1" />
+<item str="Grub.org crawler" cnt="1" />
+<item str="http: /help.naver.com/robots/" cnt="1" />
+</month>
+</usagedata>

@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usagedata>
+<month val="jul 2007" total="3794">
+<item str="Microsoft Internet Explorer 6.0" cnt="1628" />
+<item str="Microsoft Internet Explorer 7.0" cnt="691" />
+<item str="Firefox 2.0" cnt="651" />
+<item str="Yahoo! Slurp" cnt="239" />
+<item str="Firefox 1.5" cnt="222" />
+<item str="AppleWebKit 419.2" cnt="82" />
+<item str="Firefox 1.0" cnt="46" />
+<item str="Opera 9.2" cnt="33" />
+<item str="msnbot 1.0" cnt="22" />
+<item str="AppleWebKit 419" cnt="21" />
+<item str="AppleWebKit 312.8" cnt="16" />
+<item str="Microsoft Internet Explorer 5.0" cnt="14" />
+<item str="AppleWebKit 522.1" cnt="11" />
+<item str="Googlebot 2.1" cnt="10" />
+<item str="Sogou web spider 3.0" cnt="9" />
+<item str="VoilaBot BETA 1.2 " cnt="8" />
+<item str="AppleWebKit 124" cnt="5" />
+<item str="Microsoft Internet Explorer 4.0" cnt="5" />
+<item str="Ask Jeeves Teoma" cnt="5" />
+<item str="Microsoft Internet Explorer 5.2" cnt="4" />
+<item str="Netscape 8.1" cnt="4" />
+<item str="Netscape 7.1" cnt="4" />
+<item str="psbot 0.1" cnt="4" />
+<item str="Firefox 1.4" cnt="3" />
+<item str="Camino 1.5" cnt="3" />
+</month>
+<month val="aug 2007" total="3118">
+<item str="Microsoft Internet Explorer 6.0" cnt="1033" />
+<item str="Microsoft Internet Explorer 7.0" cnt="880" />
+<item str="Firefox 2.0" cnt="568" />
+<item str="Yahoo! Slurp" cnt="136" />
+<item str="AppleWebKit 419.3" cnt="76" />
+<item str="Firefox 1.5" cnt="58" />
+<item str="Gecko 20060414" cnt="54" />
+<item str="AppleWebKit 419.2" cnt="45" />
+<item str="msnbot 1.0" cnt="24" />
+<item str="Firefox 1.0" cnt="20" />
+<item str="AppleWebKit 522.1" cnt="18" />
+<item str="AppleWebKit 312.8" cnt="14" />
+<item str="Netscape 7.1" cnt="14" />
+<item str="Googlebot 2.1" cnt="13" />
+<item str="AppleWebKit 312.9" cnt="11" />
+<item str="Ask Jeeves Teoma" cnt="10" />
+<item str="Netscape 7.2" cnt="10" />
+<item str="Netscape Navigator 5.0" cnt="8" />
+<item str="AppleWebKit 85.8" cnt="8" />
+<item str="Microsoft Internet Explorer 5.0" cnt="8" />
+<item str="AppleWebKit 419" cnt="8" />
+<item str="Microsoft Internet Explorer 5.5" cnt="7" />
+<item str="AppleWebKit 418.9" cnt="7" />
+<item str="VoilaBot BETA 1.2 " cnt="6" />
+<item str="FAST MetaWeb Crawler " cnt="6" />
+</month>
+<month val="sep 2007" total="3049">
+<item str="Microsoft Internet Explorer 6.0" cnt="1075" />
+<item str="Microsoft Internet Explorer 7.0" cnt="795" />
+<item str="Firefox 2.0" cnt="649" />
+<item str="Yahoo! Slurp" cnt="141" />
+<item str="AppleWebKit 419.3" cnt="73" />
+<item str="Firefox 1.5" cnt="54" />
+<item str="msnbot 1.0" cnt="28" />
+<item str="AppleWebKit 419.2" cnt="27" />
+<item str="Firefox 1.0" cnt="26" />
+<item str="AppleWebKit 522.1" cnt="14" />
+<item str="Googlebot 2.1" cnt="11" />
+<item str="Microsoft Internet Explorer 5.0" cnt="10" />
+<item str="AppleWebKit 312.9" cnt="9" />
+<item str="AppleWebKit 85.8" cnt="9" />
+<item str="AppleWebKit 418.9" cnt="9" />
+<item str="VoilaBot BETA 1.2 " cnt="8" />
+<item str="AppleWebKit 418" cnt="8" />
+<item str="Netscape 7.2" cnt="8" />
+<item str="Ask Jeeves Teoma" cnt="7" />
+<item str="Netscape 7.1" cnt="6" />
+<item str="AppleWebKit 312.8" cnt="5" />
+<item str="SeaMonkey 1.1" cnt="4" />
+<item str="psbot 0.1" cnt="4" />
+<item str="Iceweasel 2.0" cnt="4" />
+<item str="AppleWebKit 419" cnt="4" />
+</month>
+<month val="oct 2007" total="3780">
+<item str="Microsoft Internet Explorer 6.0" cnt="1238" />
+<item str="Firefox 2.0" cnt="1040" />
+<item str="Microsoft Internet Explorer 7.0" cnt="945" />
+<item str="AppleWebKit 419.3" cnt="113" />
+<item str="Yahoo! Slurp" cnt="101" />
+<item str="Firefox 1.0" cnt="39" />
+<item str="AppleWebKit 312.9" cnt="29" />
+<item str="Firefox 1.5" cnt="22" />
+<item str="msnbot 1.0" cnt="18" />
+<item str="AppleWebKit 522.1" cnt="15" />
+<item str="Googlebot 2.1" cnt="14" />
+<item str="AppleWebKit 419.2" cnt="12" />
+<item str="Opera 9.2" cnt="12" />
+<item str="Ask Jeeves Teoma" cnt="11" />
+<item str="msnbot-media 1.0" cnt="10" />
+<item str="MSRBOT " cnt="9" />
+<item str="AppleWebKit 418.8" cnt="9" />
+<item str="AppleWebKit 312.8" cnt="8" />
+<item str="VoilaBot BETA 1.2 " cnt="8" />
+<item str="Firefox 0.1" cnt="7" />
+<item str="Yahoo! Slurp China" cnt="7" />
+<item str="AppleWebKit 419" cnt="5" />
+<item str="Netscape Navigator 4.0" cnt="5" />
+<item str="GranParadiso 3.0" cnt="5" />
+<item str="AppleWebKit 418.9" cnt="5" />
+</month>
+<month val="nov 2007" total="3739">
+<item str="Microsoft Internet Explorer 6.0" cnt="1324" />
+<item str="Microsoft Internet Explorer 7.0" cnt="965" />
+<item str="Firefox 2.0" cnt="871" />
+<item str="Yahoo! Slurp" cnt="118" />
+<item str="AppleWebKit 419.3" cnt="82" />
+<item str="AppleWebKit 523.1" cnt="46" />
+<item str="AppleWebKit 312.9" cnt="28" />
+<item str="Firefox 1.5" cnt="23" />
+<item str="Ask Jeeves Teoma" cnt="22" />
+<item str="Gecko 20060414" cnt="18" />
+<item str="msnbot 1.0" cnt="16" />
+<item str="Opera 9.2" cnt="15" />
+<item str="Firefox 1.0" cnt="14" />
+<item str="AppleWebKit 419.2" cnt="12" />
+<item str="Netscape Navigator 4.0" cnt="8" />
+<item str="Netscape 7.2" cnt="8" />
+<item str="Yahoo! Slurp China" cnt="8" />
+<item str="Yahoo! Slurp 3.0" cnt="7" />
+<item str="Googlebot 2.1" cnt="7" />
+<item str="Balihoo Nutch-1.0-dev " cnt="6" />
+<item str="AppleWebKit 85.8" cnt="6" />
+<item str="Microsoft Internet Explorer 5.0" cnt="6" />
+<item str="Iceweasel 2.0" cnt="6" />
+<item str="Fedora 1.0" cnt="6" />
+<item str="VoilaBot BETA 1.2 " cnt="6" />
+</month>
+<month val="dec 2007" total="3285">
+<item str="Microsoft Internet Explorer 6.0" cnt="1230" />
+<item str="Microsoft Internet Explorer 7.0" cnt="789" />
+<item str="Firefox 2.0" cnt="739" />
+<item str="AppleWebKit 523.1" cnt="92" />
+<item str="Yahoo! Slurp" cnt="81" />
+<item str="AppleWebKit 419.3" cnt="55" />
+<item str="Firefox 1.0" cnt="27" />
+<item str="Firefox 1.5" cnt="26" />
+<item str="Ask Jeeves Teoma" cnt="24" />
+<item str="Opera 9.2" cnt="19" />
+<item str="Yahoo! Slurp 3.0" cnt="16" />
+<item str="Googlebot 2.1" cnt="15" />
+<item str="AppleWebKit 419.2" cnt="15" />
+<item str="msnbot 1.0" cnt="10" />
+<item str="Ubuntu 7.1" cnt="10" />
+<item str="AppleWebKit 312.9" cnt="9" />
+<item str="AppleWebKit 420.1" cnt="9" />
+<item str="VoilaBot BETA 1.2 " cnt="9" />
+<item str="Netscape 7.0" cnt="8" />
+<item str="Netscape 7.2" cnt="7" />
+<item str="SeaMonkey 1.1" cnt="6" />
+<item str="Yahoo! Slurp China" cnt="6" />
+<item str="Opera 9.1" cnt="4" />
+<item str="Grub 2.0" cnt="4" />
+<item str="AppleWebKit 418" cnt="4" />
+</month>
+<month val="jan 2008" total="4631">
+<item str="Microsoft Internet Explorer 6.0" cnt="1608" />
+<item str="Microsoft Internet Explorer 7.0" cnt="1267" />
+<item str="Firefox 2.0" cnt="1239" />
+<item str="AppleWebKit 523.1" cnt="131" />
+<item str="Opera 9.2" cnt="47" />
+<item str="Yahoo! Slurp" cnt="40" />
+<item str="Firefox 1.0" cnt="30" />
+<item str="Firefox 1.5" cnt="23" />
+<item str="AppleWebKit 312.9" cnt="21" />
+<item str="Googlebot 2.1" cnt="17" />
+<item str="msnbot 1.0" cnt="13" />
+<item str="AppleWebKit 419.3" cnt="10" />
+<item str="Ask Jeeves Teoma" cnt="8" />
+<item str="Netscape Navigator 4.0" cnt="8" />
+<item str="AppleWebKit 419.2" cnt="8" />
+<item str="Ubuntu 7.1" cnt="8" />
+<item str="AppleWebKit 420.1" cnt="8" />
+<item str="Yahoo! Slurp China" cnt="7" />
+<item str="VoilaBot BETA 1.2 " cnt="7" />
+<item str="Randy" cnt="6" />
+<item str="Netscape 7.2" cnt="5" />
+<item str="Microsoft Internet Explorer 5.0" cnt="5" />
+<item str="Win16" cnt="4" />
+<item str="noxtrumbot 1.0" cnt="4" />
+<item str="Java 1.4" cnt="4" />
+</month>
+<month val="feb 2008" total="4621">
+<item str="Microsoft Internet Explorer 7.0" cnt="1591" />
+<item str="Firefox 2.0" cnt="1289" />
+<item str="Microsoft Internet Explorer 6.0" cnt="1205" />
+<item str="AppleWebKit 523.1" cnt="199" />
+<item str="Firefox 1.5" cnt="36" />
+<item str="Yahoo! Slurp" cnt="31" />
+<item str="msnbot 1.0" cnt="28" />
+<item str="Ubuntu 7.1" cnt="17" />
+<item str="Opera 9.2" cnt="15" />
+<item str="Googlebot 2.1" cnt="14" />
+<item str="Firefox 1.0" cnt="11" />
+<item str="Ask Jeeves Teoma" cnt="11" />
+<item str="AppleWebKit 312.9" cnt="10" />
+<item str="AppleWebKit 419" cnt="9" />
+<item str="Yahoo! Slurp 3.0" cnt="8" />
+<item str="Netscape 7.1" cnt="6" />
+<item str="VoilaBot BETA 1.2 " cnt="6" />
+<item str="AppleWebKit 312.1" cnt="6" />
+<item str="Firefox 0.1" cnt="5" />
+<item str="msnbot 1.1" cnt="5" />
+<item str="Yahoo! Slurp China" cnt="5" />
+<item str="Microsoft Internet Explorer 5.2" cnt="4" />
+<item str="Netscape 7.0" cnt="3" />
+<item str="; en-US; rv:1.8.1.4) Gecko 20071214" cnt="3" />
+<item str="noxtrumbot 1.0" cnt="3" />
+</month>
+<month val="mar 2008" total="4528">
+<item str="Microsoft Internet Explorer 7.0" cnt="1431" />
+<item str="Firefox 2.0" cnt="1317" />
+<item str="Microsoft Internet Explorer 6.0" cnt="1133" />
+<item str="AppleWebKit 523.1" cnt="160" />
+<item str="Yahoo! Slurp" cnt="132" />
+<item str="AppleWebKit 525.1" cnt="46" />
+<item str="Firefox 1.0" cnt="25" />
+<item str="msnbot 1.1" cnt="22" />
+<item str="Ubuntu 7.1" cnt="18" />
+<item str="AppleWebKit 312.9" cnt="15" />
+<item str="Gigabot 3.0" cnt="15" />
+<item str="Firefox 1.5" cnt="12" />
+<item str="Opera 9.2" cnt="12" />
+<item str="msnbot 1.0" cnt="11" />
+<item str="Gecko 20030624" cnt="9" />
+<item str="VoilaBot BETA 1.2 " cnt="9" />
+<item str="Firefox 3.0" cnt="8" />
+<item str="Netscape 7.2" cnt="7" />
+<item str="Ask Jeeves Teoma" cnt="7" />
+<item str="Yahoo! Slurp China" cnt="7" />
+<item str="Googlebot 2.1" cnt="6" />
+<item str="Netscape Navigator 4.0" cnt="6" />
+<item str="Microsoft Internet Explorer 5.0" cnt="5" />
+<item str="AppleWebKit 419.3" cnt="5" />
+<item str="libwww-perl 5.8" cnt="5" />
+</month>
+<month val="apr 2008" total="5024">
+<item str="Microsoft Internet Explorer 7.0" cnt="1595" />
+<item str="Firefox 2.0" cnt="1564" />
+<item str="Microsoft Internet Explorer 6.0" cnt="1032" />
+<item str="Yahoo! Slurp" cnt="246" />
+<item str="AppleWebKit 525.1" cnt="208" />
+<item str="AppleWebKit 523.1" cnt="44" />
+<item str="Yahoo! Slurp 3.0" cnt="29" />
+<item str="Opera 9.2" cnt="29" />
+<item str="Firefox 1.0" cnt="28" />
+<item str="msnbot 1.1" cnt="22" />
+<item str="Ubuntu 7.1" cnt="18" />
+<item str="Gigabot 3.0" cnt="16" />
+<item str="Firefox 3.0" cnt="15" />
+<item str="Firefox 1.5" cnt="14" />
+<item str="Googlebot 2.1" cnt="11" />
+<item str="WWW-Mechanize 1.3" cnt="11" />
+<item str="AppleWebKit 312.9" cnt="10" />
+<item str="VoilaBot BETA 1.2 " cnt="9" />
+<item str="AppleWebKit 419.2" cnt="8" />
+<item str="AppleWebKit 526.1" cnt="7" />
+<item str="msnbot 1.0" cnt="7" />
+<item str="AppleWebKit 420.1" cnt="6" />
+<item str="Yahoo! Slurp China" cnt="6" />
+<item str="Java 1.6" cnt="5" />
+<item str="Fedora 2.0" cnt="5" />
+</month>
+<month val="may 2008" total="5273">
+<item str="Firefox 2.0" cnt="1709" />
+<item str="Microsoft Internet Explorer 7.0" cnt="1535" />
+<item str="Microsoft Internet Explorer 6.0" cnt="1082" />
+<item str="Yahoo! Slurp" cnt="379" />
+<item str="AppleWebKit 525.1" cnt="184" />
+<item str="Yahoo! Slurp 3.0" cnt="60" />
+<item str="msnbot 1.1" cnt="34" />
+<item str="AppleWebKit 523.1" cnt="29" />
+<item str="msnbot 1.0" cnt="21" />
+<item str="Gigabot 3.0" cnt="20" />
+<item str="Firefox 3.0" cnt="20" />
+<item str="Opera 9.2" cnt="18" />
+<item str="Googlebot 2.1" cnt="14" />
+<item str="Firefox 1.5" cnt="12" />
+<item str="VoilaBot BETA 1.2 " cnt="10" />
+<item str="Firefox 1.0" cnt="9" />
+<item str="AppleWebKit 312.9" cnt="8" />
+<item str="Netscape Navigator 4.0" cnt="7" />
+<item str="Netscape 7.2" cnt="7" />
+<item str="WWW-Mechanize 1.3" cnt="6" />
+<item str="Yahoo! Slurp China" cnt="6" />
+<item str="Ask Jeeves Teoma" cnt="5" />
+<item str="Microsoft Internet Explorer 5.0" cnt="5" />
+<item str="SeaMonkey 1.1" cnt="5" />
+<item str="Galeon 2.0" cnt="5" />
+</month>
+<month val="jun 2008" total="5982">
+<item str="Microsoft Internet Explorer 7.0" cnt="1942" />
+<item str="Firefox 2.0" cnt="1707" />
+<item str="Microsoft Internet Explorer 6.0" cnt="1049" />
+<item str="AppleWebKit 525.1" cnt="451" />
+<item str="Yahoo! Slurp" cnt="354" />
+<item str="Firefox 3.0" cnt="139" />
+<item str="Yahoo! Slurp 3.0" cnt="56" />
+<item str="msnbot 1.1" cnt="32" />
+<item str="Firefox 1.5" cnt="19" />
+<item str="msnbot 1.0" cnt="15" />
+<item str="Firefox 1.0" cnt="15" />
+<item str="Ubuntu 7.1" cnt="14" />
+<item str="Opera 9.2" cnt="13" />
+<item str="AppleWebKit 523.1" cnt="13" />
+<item str="AppleWebKit 312.9" cnt="13" />
+<item str="Netscape 7.2" cnt="13" />
+<item str="Ask Jeeves Teoma" cnt="12" />
+<item str="Netscape 7.1" cnt="9" />
+<item str="VoilaBot BETA 1.2 " cnt="7" />
+<item str="Gigabot 3.0" cnt="7" />
+<item str="Opera 9.5" cnt="5" />
+<item str="Netscape Navigator 4.0" cnt="5" />
+<item str="AppleWebKit 419.2" cnt="4" />
+<item str="zermelo" cnt="3" />
+<item str="AppleWebKit 419.3" cnt="3" />
+</month>
+<month val="jul 2008" total="3788">
+<item str="Microsoft Internet Explorer 7.0" cnt="1335" />
+<item str="Firefox 2.0" cnt="1057" />
+<item str="Microsoft Internet Explorer 6.0" cnt="633" />
+<item str="Firefox 3.0" cnt="220" />
+<item str="Yahoo! Slurp" cnt="178" />
+<item str="AppleWebKit 525.1" cnt="137" />
+<item str="Yahoo! Slurp 3.0" cnt="30" />
+<item str="Opera 9.5" cnt="25" />
+<item str="msnbot 1.1" cnt="20" />
+<item str="Firefox 1.5" cnt="13" />
+<item str="Firefox 1.0" cnt="12" />
+<item str="Ask Jeeves Teoma" cnt="11" />
+<item str="msnbot 1.0" cnt="11" />
+<item str="AppleWebKit 523.1" cnt="11" />
+<item str="Googlebot 2.1" cnt="9" />
+<item str="Microsoft Internet Explorer 5.1" cnt="8" />
+<item str="VoilaBot BETA 1.2 " cnt="6" />
+<item str="Ubuntu 7.1" cnt="5" />
+<item str="AppleWebKit 416.1" cnt="5" />
+<item str="Gigabot 3.0" cnt="5" />
+<item str="Microsoft Internet Explorer 5.0" cnt="4" />
+<item str="AppleWebKit 418.8" cnt="4" />
+<item str="AppleWebKit 312.9" cnt="3" />
+<item str="Netscape 7.2" cnt="3" />
+<item str="SeaMonkey 1.1" cnt="3" />
+<item str="SUSE 2.0" cnt="2" />
+<item str="nutch Nutch-1.0-dev " cnt="2" />
+<item str="ia_archiver" cnt="2" />
+<item str="Microsoft Internet Explorer 4.0" cnt="2" />
+<item str="Fedora 3.0" cnt="2" />
+<item str="MLBot " cnt="2" />
+<item str="Microsoft Internet Explorer 5.5" cnt="2" />
+<item str="PCLinuxOS 2.0" cnt="1" />
+<item str="Baiduspider " cnt="1" />
+<item str="Netscape Navigator 4.0" cnt="1" />
+<item str="WebStripper 2.7" cnt="1" />
+<item str="Iceweasel 2.0" cnt="1" />
+<item str="AppleWebKit 412" cnt="1" />
+<item str="Camino 1.6" cnt="1" />
+<item str="Grub 2.0" cnt="1" />
+<item str="VisBot 2.0" cnt="1" />
+<item str="Yeti 1.0" cnt="1" />
+<item str="Opera 9.2" cnt="1" />
+<item str="msnbot-media 1.1" cnt="1" />
+<item str="msnbot-media 1.0" cnt="1" />
+<item str="UGA6P 2.2" cnt="1" />
+<item str="Netscape Navigator 5.0" cnt="1" />
+<item str="Fedora 2.0" cnt="1" />
+<item str="AppleWebKit 85.8" cnt="1" />
+</month>
+</usagedata>
